@@ -79,8 +79,8 @@ ORDER BY dpt.department_name;
 -- employee, and sort the results by department name in ascending order
 
 ALTER TABLE dependents ADD COLUMN "city" VARCHAR(255);
-UPDATE dependents SET city='jamshedpur' WHERE dependent_id=6; 
-UPDATE dependents SET city='kolkata' WHERE dependent_id=7; 
-UPDATE dependents SET city='ranchi' WHERE dependent_id=8; 
-UPDATE dependents SET city='dhanbad' WHERE dependent_id=9; 
-UPDATE dependents SET city='durgapur' WHERE dependent_id=10;
+UPDATE dependents SET city='jamshedpur' WHERE dependent_id=5001; 
+UPDATE dependents SET city='kolkata' WHERE dependent_id=5002; 
+UPDATE dependents SET city='ranchi' WHERE dependent_id=5003; 
+UPDATE dependents SET city='dhanbad' WHERE dependent_id=5004; 
+UPDATE dependents SET city='durgapur' WHERE dependent_id=5005;
