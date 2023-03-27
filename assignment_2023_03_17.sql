@@ -119,11 +119,11 @@ CREATE TABLE employees(
 --inserting rows in employees
 
 INSERT INTO employees VALUES 
-(1001,'Mahfuz','Alam','Mahfuz@kreeti.com','8578877405','2023-02-15',1,15000,1001,'d_id1'),
-(1002,'Lokesh','chaman','Lokesh@kreeti.com','9898877405','2023-02-15',2,15000,1002,'d_id2'),
-(1003,'Gourav','pareek','Gourav@kreeti.com','9898877404','2023-02-15',3,16000,1003,'d_id3'),
-(1004,'Jabra','ram','Jabra@kreeti.com','9998877404','2023-02-15',4,18000,1004,'d_id4'),
-(1005,'Sayan','das','Sayan@kreeti.com','9998987404','2022-02-15',5,12000,1005,'d_id5');
+(1001,'mahfuz','alam','mahfuz@kreeti.com','8578877405','2023-02-15',1,15000,1001,'d_id1'),
+(1002,'lokesh','chaman','lokesh@kreeti.com','9898877405','2023-02-15',2,15000,1002,'d_id2'),
+(1003,'gourav','pareek','gourav@kreeti.com','9898877404','2023-02-15',3,16000,1003,'d_id3'),
+(1004,'jabra','ram','jabra@kreeti.com','9998877404','2023-02-15',4,18000,1004,'d_id4'),
+(1005,'sayan','das','sayan@kreeti.com','9998987404','2022-02-15',5,12000,1005,'d_id5');
 
 --creating table dependents
 
